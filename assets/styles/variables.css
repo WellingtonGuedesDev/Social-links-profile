@@ -1,0 +1,17 @@
+:root {
+    --clr-green: hsl(75, 94%, 57%);
+    --clr-white: hsl(0, 0%, 100%);
+    --clr-grey-700: hsl(0, 0%, 20%);
+    --clr-grey-800: hsl(0, 0%, 12%);
+    --clr-grey-900: hsl(0, 0%, 8%);
+
+    --fs-paragraph: 14px;
+    --ff-paragraph: 'Inter', sans-serif;
+    --fw-weight-regular: 400;
+    --fw-medium: 600;
+    --fw-bold: 700;
+
+    --padding-inline: 24px;
+    --gap-sm: 5px;
+    --gap-md: 14px;
+}
