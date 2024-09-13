@@ -13,7 +13,7 @@ O objetivo deste desafio é construir um card de Social Links Profile que seja r
 
 
 ## Links
-- [Live Site](https://github.com/WellingtonGuedesDev/Social-links-profile)
+- [Live Site](https://wellingtonguedesdev.github.io/Social-links-profile/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-card-6e57b1908349eef05a640a41)
 
 ## Tecnologias Utilizadas
@@ -36,7 +36,7 @@ A estrutura do projeto segue um layout simples, com os seguintes arquivos princi
 
 ## Como Rodar o Projeto
 
-acesse o link do deploy: 
+acesse o link do deploy: https://wellingtonguedesdev.github.io/Social-links-profile/
 
 ou
 
